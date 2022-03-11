@@ -1,0 +1,9 @@
+# python
+venv/
+__pycache__/
+
+# env
+.vscode
+
+# misc
+.DS_Store

@@ -1,0 +1,12 @@
+# env
+Python 3.7.6
+
+# nltk
+pip install nltk
+nltk.download()
+
+# network
+pip install urllib beautifulsoup
+
+# misc
+pip install pprint

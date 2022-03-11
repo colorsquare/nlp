@@ -1,0 +1,409 @@
+==== Activate ====
+1. Metadata, (24806677, 2014, "Complementary Interactions Between Command-Like Interneurons That Function to Activate and Specify Motor Programs", "Department of Neuroscience and Friedman Brain Institute, Mount Sinai School of Medicine, New York, New York 10029, and State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Jiangsu 210093, China.")
+Text, We study two electrically coupled interneurons, cerebral-buccal interneuron-2 (CBI-2) and CBI-11, which activate feeding motor programs in the mollusk Aplysia californica. 
+DataType, train
+Tags, [("cerebral-buccal interneuron-2 (CBI-2) and CBI-11", "activate", "feeding motor programs")]
+2. Metadata, (28770338, 2017, "Echoes on the Motor Network: How Internal Motor Control Structures Afford Sensory Experience", "Cognitive Neuroscience Unit, School of Psychology, Deakin University, Geelong, Australia. jed.burgess@deakin.edu.au.")
+Text, Often, during daily experiences, hearing peers' actions can activate motor regions of the CNS.
+DataType, train
+Tags, [("hearing peers' actions", "activate", "motor regions")]
+3. Metadata, (23932883, 2013, "Bacterial Flagellin and Diphtheria Toxin Co-Stimulate IL-17-producing Thymocytes", "Department of Neurology, Heinrich Heine University, Düsseldorf, Germany.")
+Text,  However, there is no additive or super-additive effect after stimulation with diphtheria toxin combined with flagellin and α-CD3 co-activation, which suggests that microbial stimuli used in this study can only activate a limited number of IL-17 producing thymocytes.
+DataType, train
+Tags, [("microbial stimuli", "activate", "a limited number")]
+4. Metadata, (11392612, 2001, "M5 Muscarinic Receptors Are Needed for Slow Activation of Dopamine Neurons and for Rewarding Brain Stimulation", "Department of Psychology, University of Toronto, Ontario, Canada. yeomans@psych.utoronto.ca")
+Text, Nicotinic receptors in VTA activate dopamine neurons quickly, and are needed for the stimulant and rewarding effects of nicotine in rats.
+DataType, train
+Tags, [("Nicotinic receptors", "activate", "dopamine neurons")]
+5. Metadata, (21452942, 2011, "Orienting Attention in Time Activates Left Intraparietal Sulcus for Both Perceptual and Motor Task Goals", "Université de Provence and Centre National de la Recherche Scientifique, Marseille cedex 3, France.")
+Text, In contrast to spatial orienting, temporal orienting preferentially activates left inferior parietal cortex.
+DataType, test
+Tags, [("temporal orienting", "activates", "left inferior parietal cortex")]
+6. Metadata, (28325868, 2017, "Inositol Phosphates and Phosphoinositides Activate Insulin-Degrading Enzyme, While Phosphoinositides Also Mediate Binding to Endosomes", "Department of Molecular and Cellular Biochemistry, University of Kentucky, Lexington, KY 40536.")
+Text, Polyanions activate IDE toward some substrates, yet an endogenous polyanion activator has not yet been identified. 
+DataType, train
+Tags, [("Polyanions", "activate", "IDE")]
+7. Metadata, (19415422, 2009, "Neural Substrate of Depression During Migraine", "Department of Anesthesia and Critical Care, Beth Israel Deaconess Medical Center, Harvard Medical School, Center for Life Science, 330 Brookline Avenue, Boston, MA 02215, USA. rburstei@bidmc.harvard.edu")
+Text, The network of bidirectional trafficking by which the trigeminovascular system can activate the same brain areas that have triggered its own activity in the first place provides an attractive mechanism of perpetual feedback that drives a migraine attack for many hours and even days.
+DataType, train
+Tags, [("the trigeminovascular system", "activate", "the same brain areas")]
+8. Metadata, (24657330, 2014, "Biofilm Dispersion and Quorum Sensing", "Laboratory of Microbial Biofilms, Instituto de Agrobiotecnología-Departamento de Producción Agraria, Idab, Universidad Pública de Navarra-CSIC-Gobierno de Navarra, Campus de Arrosadía, Pamplona 31006, Navarra, Spain.")
+Text, The aim of this review is to illustrate, using four bacterial pathogens as examples, the emergent concept that QS activates the biofilm dispersion process.
+DataType, test
+Tags, [("QS", "activates", "the biofilm dispersion process")]
+9. Metadata, (31076442, 2019, "The Enhancer RNA ARIEL Activates the Oncogenic Transcriptional Program in T-cell Acute Lymphoblastic Leukemia", "Cancer Science Institute of Singapore, National University of Singapore, Singapore.")
+Text, ARID5B is one of the critical downstream targets of TAL1, which further activates the oncogenic regulatory circuit in T-ALL cells.
+DataType, train
+Tags, [("TAL1", "activates", "the oncogenic regulatory circuit")]
+10. Metadata, (30827896, 2019, "Microbial Colonization Activates an Immune Fight-and-Flight Response via Neuroendocrine Signaling", "Department of Molecular Microbiology & Immunology, Oregon Health & Science University, Portland, OR 97239, USA.")
+Text, Bloating of the intestinal lumen also activates a broad innate immune response, even in the absence of bacterial pathogens or live bacteria.
+DataType, test
+Tags, [("Bloating", "activates", "a broad innate immune response")]
+11. Metadata, (21575859, 2011, "Reciprocal Feedback Regulation of PI3K and Androgen Receptor Signaling in PTEN-deficient Prostate Cancer", "Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.")
+Text, Similarly, AR inhibition activates AKT signaling by reducing levels of the AKT phosphatase PHLPP.
+DataType, train
+Tags, [("AR inhibition", "activates", "AKT signaling")]
+12. Metadata, (22682250, 2012, "Complement C1q Activates Canonical Wnt Signaling and Promotes Aging-Related Phenotypes", "Department of Cardiovascular Medicine, Osaka University Graduate School of Medicine, Japan.")
+Text, C1q activates canonical Wnt signaling by binding to Frizzled receptors and subsequently inducing C1s-dependent cleavage of the ectodomain of Wnt coreceptor low-density lipoprotein receptor-related protein 6.
+DataType, train
+Tags, [("C1q", "activates", "canonical Wnt signaling")]
+13. Metadata, (30872531, 2019, "N-terminal Degradation Activates the NLRP1B Inflammasome", "Tri-Institutional PhD Program in Chemical Biology, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.")
+Text, Intracellular pathogens and danger signals trigger the formation of inflammasomes, which activate inflammatory caspases and induce pyroptosis.
+DataType, train
+Tags, [("inflammasomes", "activate", "inflammatory caspases")]
+14. Metadata, (15982685, 2005, "Drug-induced Oxidative Stress in Rat Liver From a Toxicogenomics Perspective", "Johnson & Johnson Pharmaceutical Research and Development, LLC, Raritan, NJ 08869, USA. mmcmilli@prdus.jnj.com")
+Text, The differential gene responses largely reflect differential activation of transcription factors: MA activate Stat-3 and NFkB, PP activate PPARa, and OS/RM activate Nrf2. 
+DataType, train
+Tags, [("MA", "activate", "Stat-3 and NFkB"), ("PP", "activate", "PPARa"), ("OS/RM", "activate", "Nrf2")]
+15. Metadata, (31522942, 2019, "Distinct RhoGEFs Activate Apical and Junctional Contractility Under Control of G Proteins During Epithelial Morphogenesis", "Aix Marseille Université, CNRS, IBDM-UMR7288, Turing Center for Living Systems, 13009 Marseille, France.")
+Text, We report that distinct guanine exchange factors (GEFs) activate Rho1 in these two cellular compartments.
+DataType, train
+Tags, [("distinct guanine exchange factors (GEFs)", "activate", "Rho1")]
+16. Metadata, (31491842, 2019, "Inflammatory Response to Different Toxins in Experimental Sepsis Models", "Department of Microbiology and Immunology, Dalhousie University, Halifax, NS B3H 4R2, Canada. ky878377@dal.ca.")
+Text, These molecules activate different signaling pathways and produce different physiological responses which can be taken advantage of for sepsis modeling.
+DataType, train
+Tags, [("These molecules", "activate", "different signaling pathways")]
+17. Metadata, (26227180, 2015, "Role of Exercise in the Activation of Brown Adipose Tissue", "PROFITH 'PROmoting FITness and Health Through Physical Activity' Research Group, Department of Physical Education and Sport, Faculty of Sport Sciences, University of Granada, Granada, Spain.")
+Text, In this review, we postulate that exercise might activate and recruit human BAT through the activation of SNS, heart and skeletal muscle.
+DataType, train
+Tags, [("exercise", "activate", "human BAT")]
+18. Metadata, (31853267, 2019, "NF-κB Activation Triggers NK-cell Stimulation by Monocyte-Derived Dendritic Cells", "Institute of Medical Immunology, Martin-Luther University Halle-Wittenberg, Halle (Saale), Germany.")
+Text, In this study, we examined whether such dendritic cells could activate autologous NK cells.
+DataType, train
+Tags, [("such dendritic cells", "activate", "autologous NK cells")]
+19. Metadata, (19580324, 2009, "Biochemical Analysis of PKR Activation by PACT", "Department of Molecular Genetics, Lerner Research Institute, The Cleveland Clinic Foundation, Cleveland, Ohio 44195, USA.")
+Text, In stressed cells, this activation occurs when PACT, a PKR-binding protein, is phosphorylated and activates PKR. 
+DataType, train
+Tags, [("PACT", "activates", "PKR")]
+20. Metadata, (27856640, 2016, "G Protein-Coupled Receptors (GPCRs) That Signal via Protein Kinase A (PKA) Cross-talk at Insulin Receptor Substrate 1 (IRS1) to Activate the Phosphatidylinositol 3-kinase (PI3K)/AKT Pathway", "From the School of Molecular Biosciences, Washington State University, Pullman, Washington 99164 and.")
+Text, G protein-coupled receptors (GPCRs) activate PI3K/v-AKT thymoma viral oncoprotein (AKT) to regulate many cellular functions that promote cell survival, proliferation, and growth.
+DataType, test
+Tags, [("G protein-coupled receptors (GPCRs)", "activate", "PI3K/v-AKT thymoma viral oncoprotein (AKT)")]
+
+==== Inhibit ====
+1. Metadata, (30510188, 2018, "B Cells Inhibit Bone Formation in Rheumatoid Arthritis by Suppressing Osteoblast Differentiation", "Department of Pathology and Laboratory Medicine, University of Rochester Medical Center, Rochester, NY, 14642, USA.")
+Text, Thus, B cells inhibit bone formation in RA by producing multiple OB inhibitors.
+DataType, train
+Tags, [("B cells", "inhibit", "bone formation")]
+2. Metadata, (27475861, 2016, "Gambierol and N-Alkanols Inhibit Shaker Kv Channel via Distinct Binding Sites Outside the K(+) Pore", "Department of Biomedical Sciences, University of Antwerp, 2610 Antwerp, Belgium.")
+Text, Furthermore, the Shaker-P475A mutant, which inverses 1-butanol effect, is inhibited by gambierol with nM affinity. 
+DataType, train
+Tags, [("the Shaker-P475A mutant", "is inhibited by", "gambierol")]
+3. Metadata, (10780880, 1998, "Curcumin Is an in Vivo Inhibitor of Angiogenesis", "Department of Dermatology, Harvard Medical School, Boston, Massachusetts, USA. jlarbiser@bics.bwh.harvard.edu")
+Text, A possible explanation for this finding is that curcumin may inhibit angiogenesis.
+DataType, train
+Tags, [("curcumin", "inhibit", "angiogenesis")]
+4. Metadata, (31141679, 2019, "Evolution of Mechanisms That Control Mating in Drosophila Males", "Program in Neuroscience, University of California, San Francisco, San Francisco, CA 94143, USA; Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08540, USA.")
+Text, Genetically wired neural mechanisms inhibit mating between species because even naive animals rarely mate with other species.
+DataType, train
+Tags, [("Genetically wired neural mechanisms", "inhibit", "mating")]
+5. Metadata, (28181493, 2017, "Natural Amines Inhibit Activation of Human Plasmacytoid Dendritic Cells Through CXCR4 Engagement", "CNRS UMR-8601, Université Paris Descartes, CICB, 45 rue des Saints-Pères, 75006 Paris, France.")
+Text, Here we show that natural monoamines and synthetic amines inhibit pDC activation by RNA viruses.
+DataType, train
+Tags, [("natural monoamines and synthetic amines", "inhibit", "pDC activation")]
+6. Metadata, (28374982, 2017, "Angiotensin II Receptor Blockers Inhibit the Generation of Epoxyeicosatrienoic Acid From Arachidonic Acid in Recombinant CYP2C9, CYP2J2 and Human Liver Microsomes", "Division of Clinical Pharmacology, Hokkaido Pharmaceutical University School of Pharmacy, Sapporo, Hokkaido, Japan.")
+Text, We have recently shown that some angiotensin II receptor blockers (ARBs) may inhibit AA metabolism via CYP2C8.
+DataType, train
+Tags, [("some angiotensin II receptor blockers (ARBs)", "inhibit", "AA metabolism")]
+7. Metadata, (28374982, 2017, "Angiotensin II Receptor Blockers Inhibit the Generation of Epoxyeicosatrienoic Acid From Arachidonic Acid in Recombinant CYP2C9, CYP2J2 and Human Liver Microsomes", "Division of Clinical Pharmacology, Hokkaido Pharmaceutical University School of Pharmacy, Sapporo, Hokkaido, Japan.")
+Text, Some ARBs having lower concentration of IC50 indicate that these ARBs might inhibit the AA metabolism in the liver.
+DataType, train
+Tags, [("these ARBs", "inhibit", "the AA metabolism")]
+8. Metadata, (29895962, 2018, "The Antiviral Drug Arbidol Inhibits Zika Virus", "Department of Laboratory Medicine, University of Washington, Seattle, Washington, USA.")
+Text, In the current study, we show that ARB inhibits six different isolates of Zika virus (ZIKV), including African and Asian lineage viruses in multiple cell lines and primary human vaginal and cervical epithelial cells. 
+DataType, train
+Tags, [("ARB", "inhibits", "six different isolates")]
+9. Metadata, (26343583, 2015, "Inhibition of RAF Isoforms and Active Dimers by LY3009120 Leads to Anti-tumor Activities in RAS or BRAF Mutant Cancers", "Eli Lilly and Company, Indianapolis, IN 46285, USA. Electronic address: peng_sheng-bin@lilly.com.")
+Text, Further analyses demonstrated that LY3009120 also inhibits various forms of RAF dimers including BRAF or CRAF homodimers.
+DataType, test
+Tags, [("LY3009120", "inhibits", "various forms")]
+10. Metadata, (23109410, 2012, "Genistein and Daidzein, Typical Soy Isoflavones, Inhibit TNF-α-mediated Downregulation of Adiponectin Expression via Different Mechanisms in 3T3-L1 Adipocytes", "College of Bioscience and Biotechnology, Chubu University, Kasugai, Aichi, Japan.")
+Text, In the present study, we demonstrate that genistein (Gen) or daidzein (Dai) can significantly inhibit the downregulation of adiponectin expression via unique and different molecular mechanisms.
+DataType, test
+Tags, [("genistein (Gen) or daidzein (Dai)", "inhibit", "the downregulation")]
+11. Metadata, (21195398, 2011, "Oral Nimodipine Inhibits the Ovarian Cycle in Mice", "Toronto Centre for Advanced Reproductive Technology, Division of Reproductive Sciences, Department of Obstetrics and Gynecology, University of Toronto, Toronto, Ontario, Canada.")
+Text, We now show that oral nimodipine can effectively inhibit the ovarian cycle in mice in a dose-related manner.
+DataType, train
+Tags, [("oral nimodipine", "inhibit", "the ovarian cycle")]
+12. Metadata, (28442678, 2017, "Frondoside A From Sea Cucumber and Nymphaeols From Okinawa Propolis: Natural Anti-Cancer Agents That Selectively Inhibit PAK1 in Vitro", "PAK Research Center, University of the Ryukyus.")
+Text, In this study, for the first time, we found that both FRA and OP directly inhibit PAK1 in vitro in a selective manner (far more effectively than two other oncogenic kinases, LIMK and AKT).
+DataType, train
+Tags, [("both FRA and OP", "inhibit", "PAK1")]
+13. Metadata, (29689070, 2018, "FTI-277 Inhibits Smooth Muscle Cell Calcification by Up-Regulating PI3K/Akt Signaling and Inhibiting Apoptosis", "Vascular Research Group, Salford Royal NHS Foundation Trust, Salford, United Kingdom.")
+Text, FTI-277 also inhibits phosphate-induced activation of caspase 3 and apoptosis of VSMC, and these effects are negated by co-incubation with SH6.
+DataType, test
+Tags, [("FTI-277", "inhibits", "phosphate-induced activation and apoptosis")]
+14. Metadata, (31433338, 2019, "The Potential for Pharmacokinetic Interactions Between Cannabis Products and Conventional Medications", "From the Department of Pharmacotherapy and Translational Research, University of Florida, Gainesville, FL.")
+Text, The isoforms CYP2D6, CYP2C19, CYP2B6, and CYP2J2 are inhibited by THC and CBD.
+DataType, train
+Tags, [("The isoforms CYP2D6, CYP2C19, CYP2B6, and CYP2J2", "are inhibited by", "THC and CBD")]
+15. Metadata, (24911199, 2014, "Inhibitory Role of Polyunsaturated Fatty Acids on Lysophosphatidic Acid-Induced Cancer Cell Migration and Adhesion", "MRC for Ischemic Tissue Regeneration, Medical Research Institute, Department of Pharmacology, Pusan National University School of Medicine, Republic of Korea.")
+Text, In addition, carboxyl group-containing PUFAs functionally inhibit LPA-dependent RhoA activation.
+DataType, train
+Tags, [("carboxyl group-containing PUFAs", "inhibit", "LPA-dependent RhoA activation")]
+16. Metadata, (21072385, 2010, "2-Oxoglutarate Oxygenases Are Inhibited by a Range of Transition Metals", "Department of Chemistry and the Oxford Centre for Integrative Systems Biology, Chemistry Research Laboratory, University of Oxford, 12 Mansfield Road, Oxford, UK.")
+Text, 2-Oxoglutarate oxygenases are inhibited by a range of transition metals, as exemplified by studies on human histone demethylases and prolyl hydroxylase domain 2 (PHD2 or EGLN1).
+DataType, train
+Tags, [("2-Oxoglutarate oxygenases", "are inhibited by", "a range")]
+17. Metadata, (28673614, 2017, "ROS-dependent Activation of RhoA/Rho-kinase in Pulmonary Artery: Role of Src-family Kinases and ARHGEF1", "Asthma, Allergy & Lung Biology, Faculty of Life Sciences & Medicine, King's College London, London, United Kingdom.")
+Text, RhoA translocation was also inhibited by an ARHGEF1 siRNA.
+DataType, train
+Tags, [("RhoA translocation", "was inhibited by", "an ARHGEF1 siRNA")]
+18. Metadata, (29550135, 2018, "Screening Probiotics From Lactobacillus Strains According to Their Abilities to Inhibit Pathogen Adhesion and Induction of Pro-Inflammatory Cytokine IL-8", "School of Food Science and Technology, Dalian Polytechnic University, Dalian, 116034, P. R. China.")
+Text, The results showed that the 11 strains could inhibit adhesion of E.
+DataType, train
+Tags, [("the 11 strains", "inhibit", "adhesion")]
+19. Metadata, (11922958, 2000, "Bisphosphonates and Atherosclerosis", "Department of Pharmacological Sciences, Medical School, University of Tampere, FIN-33014 Tampere, Finland. ritva.ylitalo@santen.fi")
+Text, Bisphosphonates inhibit the arterial calcification, lipid accumulation and fibrosis.
+DataType, test
+Tags, [("Bisphosphonates", "inhibit", "the arterial calcification, lipid accumulation and fibrosis")]
+20. Metadata, (22742518, 2012, "Peptides That Inhibit HIV-1 Integrase by Blocking Its Protein-Protein Interactions", "Institute of Chemistry, The Hebrew University of Jerusalem, Israel.")
+Text, These molecules specifically inhibit one of the IN-mediated reactions necessary for successful integration.
+DataType, train
+Tags, [("These molecules", "inhibit", "one")]
+
+==== Bind ====
+1. Metadata, (26190103, 2015, "The Proteasome Distinguishes Between Heterotypic and Homotypic Lysine-11-Linked Polyubiquitin Chains", "Cambridge Institute for Medical Research, Department of Medicine, University of Cambridge, Cambridge Biomedical Research Centre, Cambridge CB2 0XY, UK.")
+Text, Whether the proteasome also can bind atypical ubiquitin chains, including those linked by lysine-11, has not been well established.
+DataType, train
+Tags, [("the proteasome", "bind", "atypical ubiquitin chains")]
+2. Metadata, (30948714, 2019, "Classification of the Human Phox Homology (PX) Domains Based on Their Phosphoinositide Binding Specificities", "Institute for Molecular Bioscience, The University of Queensland, St. Lucia, QLD, 4072, Australia.")
+Text, Although many PX domains bind the canonical endosome-enriched lipid PtdIns3P, others interact with alternative phosphoinositides, and a precise understanding of how these specificities arise has remained elusive.
+DataType, train
+Tags, [("many PX domains", "bind", "the canonical endosome-enriched lipid PtdIns3P")]
+3. Metadata, (27664420, 2016, "Lysosomal Membrane Glycoproteins Bind Cholesterol and Contribute to Lysosomal Cholesterol Export", "Department of Biochemistry, Stanford University School of Medicine, Stanford, United States.")
+Text, We show here that human LAMP1 and LAMP2 bind cholesterol in a manner that buries the cholesterol 3β-hydroxyl group.
+DataType, train
+Tags, [("human LAMP1 and LAMP2", "bind", "cholesterol")]
+4. Metadata, (25824944, 2015, "Heme Activation by DNA: Isoguanine Pentaplexes, but Not Quadruplexes, Bind Heme and Enhance Its Oxidative Activity", "Department of Chemistry, Simon Fraser University, Burnaby, British Columbia V5A 1S6, Canada.")
+Text, We found that iG-pentaplexes did indeed bind and activate heme comparably to G-quadruplexes. 
+DataType, test
+Tags, [("iG-pentaplexes", "bind", "heme"), ("iG-pentaplexes", "activate", "heme")]
+5. Metadata, (27147465, 2016, "Unique Carbohydrate Binding Platforms Employed by the Glucan Phosphatases", "Department of Molecular and Cellular Biochemistry and Center for Structural Biology, University of Kentucky, Lexington, Kentucky 40536 USA.")
+Text, These enzymes bind and dephosphorylate glycogen in animals and starch in plants. 
+DataType, train
+Tags, [("These enzymes", "bind", "glycogen")]
+6. Metadata, (29691282, 2018, "The Compound Millepachine and Its Derivatives Inhibit Tubulin Polymerization by Irreversibly Binding to the Colchicine-Binding Site in β-Tubulin", "From the State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu 610041, China and.")
+Text, Here, biochemical and cellular experiments revealed that the MDs directly and irreversibly bind β-tubulin.
+DataType, train
+Tags, [("the MDs", "bind", "β-tubulin")]
+7. Metadata, (24520380, 2014, "The Interaction of Streptococcal Enolase With Canine Plasminogen: The Role of Surfaces in Complex Formation", "Department of Chemistry and Biochemistry, Concordia University, Montréal, Quebec, Canada.")
+Text, Under certain conditions, Pgn adsorbed to a surface will bind Str enolase.
+DataType, train
+Tags, [("Pgn", "bind", "Str enolase")]
+8. Metadata, (31151745, 2019, "Binding or Hydrolysis? How Does the Strigolactone Receptor Work?", "Department of Genetics, Faculty of Biology and Environmental Protection, University of Silesia, Katowice 40-032, Poland. Electronic address: marek.marzec@us.edu.pl.")
+Text, Landmark studies had proposed that a product of hydrolysis irreversibly binds the receptor and then activates signalling.
+DataType, train
+Tags, [("a product", "binds", "the receptor"), ("a product", "activates", "signalling")]
+9. Metadata, (28126821, 2017, "RPA Binds Histone H3-H4 and Functions in DNA Replication-Coupled Nucleosome Assembly", "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences and Peking-Tsinghua Center for Life Sciences, Peking University, Beijing 100871, China.")
+Text, RPA directly binds free H3-H4.
+DataType, test
+Tags, [("RPA", "binds", "free H3-H4")]
+10. Metadata, (27454326, 2016, "The Oligodendrocyte-Specific Antibody 'CC1' Binds Quaking 7", "Montreal Neurological Institute, Department of Neurology and Neurosurgery, McGill University, Montreal, Quebec, Canada.")
+Text, Previous studies have shown that despite being raised against adenomatous polyposis coli, this antibody binds another unknown antigen.
+DataType, train
+Tags, [("this antibody", "binds", "another unknown antigen")]
+11. Metadata, (20455544, 2010, "Coevolution of Drosophila Snf Protein and Its snRNA Targets", "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, Missouri 63110, USA.")
+Text, In vivo, these proteins segregate to the U1 and U2 snRNPs, respectively, where they bind distinct RNA hairpins.
+DataType, train
+Tags, [("they", "bind", "distinct RNA hairpins")]
+12. Metadata, (20455544, 2010, "Coevolution of Drosophila Snf Protein and Its snRNA Targets", "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, Missouri 63110, USA.")
+Text, By comparing thermodynamic aspects of SNF-RNA interactions with those of U1A-RNA interactions, we find that SNF binds its RNA targets in a manner that is distinct from that of U1A.
+DataType, train
+Tags, [("SNF", "binds", "its RNA targets")]
+13. Metadata, (20536384, 2010, "Pseudo-active Sites of Protease Domains: HGF/Met and Sonic Hedgehog Signaling in Cancer", "Department of Protein Engineering, Genentech, Inc., South San Francisco, CA 94080, USA.")
+Text, For HGF, this region binds the Met beta-propeller domain, which leads to Met dimerization and signaling.
+DataType, train
+Tags, [("this region", "binds", "the Met beta-propeller domain")]
+14. Metadata, (11677424, 2001, "A Yin-Yang Role for Metals in Prion Disease", "Institute of Pathology, Case Western Reserve University School of Medicine, Cleveland, Ohio 44106, USA. bxw29@po.cwru.edu")
+Text, More importantly, PrP also binds other metals such as zinc and manganese at these two sites albeit at a lower affinity.
+DataType, train
+Tags, [("PrP", "binds", "other metals")]
+15. Metadata, (20962094, 2011, "Yeast-elicited Cross-Reactive Antibodies to HIV Env Glycans Efficiently Neutralize Virions Expressing Exclusively High-Mannose N-linked Glycans", "Department of Microbiology, University of Pennsylvania, 3610 Hamilton Walk, 225A Johnson Pavilion, Philadelphia, PA 19104, USA.")
+Text, The broadly neutralizing antibody 2G12, which binds a specific cluster of high-mannose glycans on HIV Env, shows that the glycan shield can also serve as a target for neutralizing antibodies.
+DataType, train
+Tags, [("The broadly neutralizing antibody 2G12", "binds", "a specific cluster")]
+16. Metadata, (16299528, 2005, "Recent Lessons in Gene Expression, Cell Cycle Control, and Cell Biology From Adenovirus", "Department of Microbiology, Immunology and Molecular Genetics, Molecular Biology Institute, University of California, Los Angeles (UCLA), 90095-1570, USA. berk@mbi.ucla.edu")
+Text, E1A CR1 binds several chromatin-modifying complexes, but how this contributes to stimulation of cellular DNA synthesis and transformation is not clear.
+DataType, test
+Tags, [("E1A CR1", "binds", "several chromatin-modifying complexes")]
+17. Metadata, (23121466, 2012, "Different Regions of the HPV-E7 and Ad-E1A Viral Oncoproteins Bind Competitively but Through Distinct Mechanisms to the CH1 Transactivation Domain of p300", "Program in Gene Expression and Regulation, The Wistar Institute, Philadelphia, PA 19104, USA.")
+Text, Here we address how high-risk HPV16-E7 and Ad5-E1A, which have different structures, can both bind the p300 CH1 domain.
+DataType, train
+Tags, [("HPV16-E7 and Ad5-E1A", "bind", "the p300 CH1 domain")]
+18. Metadata, (24550401, 2014, "IQGAP1 Binds to Estrogen Receptor-α and Modulates Its Function", "From the Department of Laboratory Medicine, National Institutes of Health, Bethesda, Maryland 20892.")
+Text, In this study, we report that IQGAP1 binds ERα and ERβ.
+DataType, test
+Tags, [("IQGAP1", "binds", "ERα and ERβ")]
+19. Metadata, (32134144, 2020, "Structural Basis for Centromere Maintenance by Drosophila CENP-A Chaperone CAL1", "Wellcome Centre for Cell Biology, University of Edinburgh, Edinburgh, UK.")
+Text, While an N-terminal CAL1 fragment wraps around CENP-A/H4 through multiple physical contacts, a C-terminal CAL1 fragment directly binds a CENP-C cupin domain dimer.
+DataType, train
+Tags, [("a C-terminal CAL1 fragment", "binds", "a CENP-C cupin domain dimer")]
+20. Metadata, (26374897, 2015, "The Triggering Receptor Expressed on Myeloid Cells 2 Binds Apolipoprotein E", "From the Department of Immunobiology and Microbial Sciences, The Scripps Research Institute, Jupiter, Florida 33458 cbailey@scripps.edu.")
+Text, TREM2 binds various polyanionic molecules but no specific protein ligands have been identified.
+DataType, train
+Tags, [("TREM2", "binds", "various polyanionic molecules")]
+
+==== Stimulate ====
+1. Metadata, (26994754, 2016, "Diagnostic Radiology Dosimetry: Status and Trends", "Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada-Legaria, del IPN, Av. Legaria 694, Col. Irrigación, D.F., 11500 México, Mexico. Electronic address: trivera@ipn.mx.")
+Text, Worldwide interest in patient dose measurement was stimulated by the publication of Patient Dose Reduction in Diagnostic Radiology by the UK National Radiological Protection Board (NRPB).
+DataType, test
+Tags, [("Worldwide interest", "was stimulated by", "the publication")]
+2. Metadata, (15270582, 2004, "Detectors for Digital Mammography", "Imaging Research Program, Sunnybrook and Women's College, Health Sciences Centre, University of Toronto, Room S6-57, 2075 Bayview Avenue, Toronto, Ontario, Canada, M4N 3M5. martin.yaffe@swri.ca")
+Text, Interest in digital radiography was stimulated by the enthusiastic acceptance of computed tomography in the early 1970s.
+DataType, train
+Tags, [("Interest", "was stimulated by", "the enthusiastic acceptance")]
+3. Metadata, (25941080, 2016, "Mast Cells, Brain Inflammation and Autism", "Molecular Immunopharmacology and Drug Discovery Laboratory, Department of Integrative Physiology and Pathobiology, Tufts University School of Medicine, USA; Department of Internal Medicine, Tufts University School of Medicine and Tufts Medical Center, Boston, MA, USA; Department of Psychiatry, Tufts University School of Medicine and Tufts Medical Center, Boston, MA, USA. Electronic address: theoharis.theoharides@tufts.edu.")
+Text, CRF and NT synergistically stimulate MCs and increase vascular permeability
+DataType, train
+Tags, [("CRF and NT", "stimulate", "MCs")]
+4. Metadata, (30997503, 2019, "Single-stranded Regions Modulate Conformational Dynamics and ATPase Activity of eIF4A to Optimize 5'-UTR Unwinding", "University of Muenster, Institute for Physical Chemistry, Corrensstrasse 30, D-48149 Muenster, Germany.")
+Text, Short RNAs only partially stimulate the eIF4A ATPase activity, and closing is rate-limiting for the conformational cycle. 
+DataType, train
+Tags, [("Short RNAs", "stimulate", "the eIF4A ATPase activity")]
+5. Metadata, (28764589, 2017, "Uncovering How Urban Regeneration Programs May Stimulate Leisure-time Walking Among Adults in Deprived Areas: A Realist Review", "1 Department of Public Health, Academic Medical Centre, University of Amsterdam, Amsterdam, The Netherlands.")
+Text, Evidence suggests that urban regeneration programs can stimulate leisure-time walking (LTW) in deprived areas.
+DataType, test
+Tags, [("urban regeneration programs", "stimulate", "leisure-time walking (LTW)")]
+6. Metadata, (28253415, 2017, "Questions That Stimulate Creativity and Innovation", "-")
+Text, A higher level of questioning can stimulate creativity and innovation. 
+DataType, train
+Tags, [("A higher level", "stimulate", "creativity and innovation")]
+7. Metadata, (31468898, 2019, "Use of Storytelling and Audio Podcasts in Qualitative Research", "Faculty of Health and Social Care, University of Chester, Chester, England.")
+Text, This article discusses the author's experiences of using an audio podcast to guide and stimulate debate among a small team of service evaluators or co-designers tasked with evaluating sleep services. 
+DataType, train
+Tags, [("This article", "stimulate", "debate")]
+8. Metadata, (2545411, 1989, "Signal Transduction and Control of Lacrimal Gland Protein Secretion: A Review", "Eye Research Institute, Boston, MA.")
+Text, In the lacrimal gland, cholinergic agonists stimulate protein secretion.
+DataType, test
+Tags, [("cholinergic agonists", "stimulate", "protein secretion")]
+9. Metadata, (22404467, 2012, "Regulation of Seed Germination and Seedling Growth by Chemical Signals From Burning Vegetation", "Department of Genetics, University of Georgia, Athens, GA 30602, USA. dcnelson@uga.edu")
+Text, It is well known that burning of vegetation stimulates new plant growth and landscape regeneration.
+DataType, train
+Tags, [("burning", "stimulates", "new plant growth and landscape regeneration")]
+10. Metadata, (7634159, 1995, "Update on Four Unusual Equine Dermatoses", "Department of Small Animal Medicine and Surgery, College of Veterinary Medicine, Texas A&M University, College Station, USA.")
+Text, More importantly, it is hoped that they stimulate further investigation and research.
+DataType, test
+Tags, [("they", "stimulate", "further investigation and research")]
+11. Metadata, (8960353, 1996, '"Cross Talk" Between the Bioactive Glycerolipids and Sphingolipids in Signal Transduction', "Signal Transduction Laboratories, Faculty of Medicine, University of Alberta, Edmonton, Canada.")
+Text, These three lipids can stimulate cell division.
+DataType, train
+Tags, [("These three lipids", "stimulate", "cell division")]
+12. Metadata, (23363605, 2013, "TORC1-regulated Protein Kinase Npr1 Phosphorylates Orm to Stimulate Complex Sphingolipid Synthesis", "Biozentrum, University of Basel, 4056 Basel, Switzerland.")
+Text, Here we demonstrate that inhibition of nutrient-sensitive target of rapamycin complex 1 (TORC1) stimulates Orm phosphorylation and synthesis of complex sphingolipids in Saccharomyces cerevisiae.
+DataType, train
+Tags, [("inhibition", "stimulates", "Orm phosphorylation and synthesis")]
+13. Metadata, (16036063, 2003, "How to Grow Bone to Treat Osteoporosis and Mend Fractures", "Institute for Biological Sciences, National Research Council of Canada, Montreal Road Campus, Building M-54, Ottawa, Ontario K1A 0R6, Canada. pthosteo@rogers.com")
+Text, This article discusses how PTHs might stimulate bone growth.
+DataType, train
+Tags, [("PTHs", "stimulate", "bone growth")]
+14. Metadata, (8943739, 1996, "Interactions Between Renal Tubules and Interstitium", "Department of Pathology, University of Birmingham.")
+Text, Damaged tubules can attract inflammatory cells and stimulate interstitial fibrosis, but do not always do so.
+DataType, train
+Tags, [("Damaged tubules", "stimulate", "interstitial fibrosis")]
+15. Metadata, (24703695, 2014, "Proteolytic Cleavage of Opa1 Stimulates Mitochondrial Inner Membrane Fusion and Couples Fusion to Oxidative Phosphorylation", "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA 91125, USA.")
+Text, Proteolytic cleavage therefore stimulates the membrane fusion activity of Opa1, and this feature is exploited to dynamically couple mitochondrial fusion to cellular metabolism.
+DataType, train
+Tags, [("Proteolytic cleavage", "stimulates", "the membrane fusion activity")]
+16. Metadata, (30200426, 2018, "Enterohemorrhagic E. coli (EHEC)-Secreted Serine Protease EspP Stimulates Electrogenic Ion Transport in Human Colonoid Monolayers", "Department of Medicine, Division of Gastroenterology & Hepatology, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA. mtse@jhmi.edu.")
+Text, EspP stimulates Isc in HCM.
+DataType, train
+Tags, [("EspP", "stimulates", "Isc")]
+17. Metadata, (26881438, 2016, "Chemical Senses Affecting Cough and Swallowing", "Department of Rehabilitation Medicine, Toho University Faculty of Medicine, 6-11-1, Omori-nishi, Otaku, Tokyo 143-8541, Japan. satoru.ebihara@med.toho-u.ac.jp.")
+Text, Cigarette smoke stimulates the cough reflex, while it inhibits the swallowing reflex.
+DataType, train
+Tags, [("Cigarette smoke", "stimulates", "the cough reflex"), ("it", "inhibits", "the swallowing reflex")]
+18. Metadata, (30715269, 2019, "O-GlcNAcylation of YY1 Stimulates Tumorigenesis in Colorectal Cancer Cells by Targeting SLC22A15 and AANAT", "Department of Clinical Laboratory, Shanghai Tenth People's Hospital of Tongji University, Shanghai, China.")
+Text, Also, O-GlcNAcylation stimulates YY1-dependent transcriptional activity.
+DataType, train
+Tags, [("O-GlcNAcylation", "stimulates", "YY1-dependent transcriptional activity")]
+19. Metadata, (18079113, 2008, "Identification of Francisella Tularensis Lipoproteins That Stimulate the Toll-Like Receptor (TLR) 2/TLR1 Heterodimer", "Department of Molecular Sciences, University of Tennessee Health Science Center, Memphis, Tennessee 38163, USA.")
+Text, Using an assay that relies on chimeric TLR proteins, we show that TUL4 and FTT1103 stimulate exclusively the TLR2/TLR1 heterodimer. 
+DataType, train
+Tags, [("TUL4 and FTT1103", "stimulate", "the TLR2/TLR1 heterodimer")]
+20. Metadata, (28119458, 2017, "Lysosomes Get Into the Action", "Science Signaling, AAAS, Washington, DC 20005, USA.")
+Text, Activity-dependent lysosomal fusion with the plasma membrane stimulates dendrite remodeling.
+DataType, train
+Tags, [("Activity-dependent lysosomal fusion", "stimulates", "dendrite remodeling")]
+
+==== Prevent ====
+1. Metadata, (23313995, 2012, "Clinical Inquiry: Do Any Topical Agents Help Prevent or Reduce Stretch Marks?", "Valley Family Medicine Residency, Renton, WA, USA.")
+Text, Randomized controlled trials show that cocoa butter doesn't prevent stretch marks; neither does olive oil. 
+DataType, train
+Tags, [("cocoa butter", "prevent", "stretch marks")]
+2. Metadata, (31222488, 2019, "Sphingosine-coating of Plastic Surfaces Prevents Ventilator-Associated Pneumonia", "Department of Surgery, College of Medicine, University of Cincinnati, 231 Albert Sabin Way ML 0558, Cincinnati, OH, 45267, USA. seitzap@ucmail.uc.edu.")
+Text, Sphingosine coatings of endotracheal tubes prevent bacterial adherence and biofilms.
+DataType, train
+Tags, [("Sphingosine coatings", "prevent", "bacterial adherence and biofilms")]
+3. Metadata, (19707825, 2009, "Easy Cleaning of the Scope's Lens in a Syringe to Prevent Condensation During Laparoscopic Surgery", "Department of Surgery, Sint Franciscus Gasthuis, Schietbaanlaan 8-b, 3021 LJ, Rotterdam, The Netherlands. jetteke@weaponofchoice.nl")
+Text, Anti lens condensation solutions prevent fogging in the intraabdominal environment but are troublesome to apply to the scope.
+DataType, test
+Tags, [("Anti lens condensation solutions", "prevent", "fogging")]
+4. Metadata, (28466180, 2017, "Do Prophylactic Antibiotics in Gynecologic Surgery Prevent Postoperative Inflammatory Complications? A Systematic Review", "Department of Plastic, Reconstructive, Hand and Burn Surgery, BG Trauma Center, Eberhard Karls University Tuebingen, Schnarrenbergstr. 95, 72076, Tuebingen, Germany. boeschcedric@gmail.com.")
+Text, Prophylactic antibiotics prevent inflammatory complications after gynaecological surgery.
+DataType, train
+Tags, [("Prophylactic antibiotics", "prevent", "inflammatory complications")]
+5. Metadata, (26306130, 2015, "Radiofrequency Ablation to Prevent Sudden Cardiac Death", "University of Kansas Medical Center, Kansas City, Kansas.")
+Text, Radiofrequency ablation may prevent or treat atrial and ventricular arrhythmias.
+DataType, train
+Tags, [("Radiofrequency ablation", "prevent", "atrial and ventricular arrhythmias")]
+6. Metadata, (30300596, 2018, "Protection Against the Lethal Side Effects of Social Immunity in Ants", "IST Austria (Institute of Science and Technology Austria), Am Campus 1, 3400 Klosterneuburg, Austria. Electronic address: chris.pull@rhul.ac.uk.")
+Text, However, these antimicrobial compounds can be harmful to the insects themselves, and it is unknown how colonies prevent collateral damage when using them.
+DataType, train
+Tags, [("colonies", "prevent", "collateral damage")]
+7. Metadata, (16918693, 2006, "Vaccine Approaches to Prevent Tuberculosis", "Section for Microbiology and Immunology, The Gade Institute, Armauer Hansen Building, University of Bergen, NO-5021 Bergen, Norway. harald.wiker@gades.uib.no")
+Text, New vaccines should also prevent development of TB in HIV-infected individuals.
+DataType, train
+Tags, [("New vaccines", "prevent", "development")]
+8. Metadata, (28558553, 2017, "Year-long Weight-Loss Classes Could Prevent More Illnesses", "-")
+Text, Offering year-long programmes of weight loss classes could prevent hundreds of additional cases of hypertension, diabetes and heart disease.
+DataType, train
+Tags, [("Offering year-long programmes", "prevent", "hundreds")]
+9. Metadata, (30120246, 2018, "The Tumor Suppressor Menin Prevents Effector CD8 T-cell Dysfunction by Targeting mTORC1-dependent Metabolic Activation", "Department of Hematology, Clinical Immunology and Infectious Diseases, Graduate School of Medicine, Ehime University, Shitsukawa, Toon City, Ehime, 791-0295, Japan.")
+Text, We found that menin prevents the induction of dysfunction in activated CD8 T cells by restricting the cellular metabolism.
+DataType, train
+Tags, [("menin", "prevents", "the induction")]
+10. Metadata, (20487192, 2010, "Intentions of Older Homebound Women to Reduce the Risk of Falling Again", "University of Missouri-Columbia, Columbia, MO 65212, USA. Mail: PorterEJ@missouri.edu")
+Text, Women who viewed falls as unexpected events were uncertain that they could prevent a fall or felt unable to do so and voiced few preventive intentions. 
+DataType, train
+Tags, [("they", "prevent", "a fall")]
+11. Metadata, (8401248, 1993, "An Appraisal of Strategies to Reduce the Incidence of Breast Cancer", "Department of Human Oncology, University of Wisconsin Comprehensive Cancer Center, Madison 53792.")
+Text, Hormonal contraception could prevent breast cancer if the appropriate formulation was chosen and used by all young women. 
+DataType, train
+Tags, [("Hormonal contraception", "prevent", "breast cancer")]
+12. Metadata, (15647424, 2005, "How to Prevent Steroid Induced Osteoporosis", "Royal North Shore Hospital, St Leonards, Sydney, Australia 2065. sambrook@med.usyd.ed.au")
+Text, For patients receiving chronic low dose corticosteroids treatment with calcium and vitamin D may prevent further bone loss.
+DataType, train
+Tags, [("patients receiving chronic low dose corticosteroids treatment", "prevent", "further bone loss")]
+13. Metadata, (30352190, 2018, "Motor Control: Parietal Stimulation Prevents Voluntary Hand Movement", "Department of Psychiatry and Psychotherapy, University Hospital Tübingen, Calwerstraße 14, 72076 Tübingen, Germany. Electronic address: a.lindner@medizin.uni-tuebingen.de.")
+Text, A new study shows that intra-surgical stimulation of human posterior parietal cortex selectively prevents the initiation and execution of voluntary movement of the contralateral hand.
+DataType, test
+Tags, [("intra-surgical stimulation", "prevents", "the initiation and execution")]
+14. Metadata, (11181959, 2001, "Antifreeze and Ice Nucleator Proteins in Terrestrial Arthropods", "Department of Biological Sciences, University of Notre Dame, Notre Dame, Indiana 46556, USA. duman.1@nd.edu")
+Text, Freeze-avoiding species must prevent inoculative freezing initiated by external ice across the cuticle and extend supercooling abilities.
+DataType, train
+Tags, [("Freeze-avoiding species", "prevent", "inoculative freezing")]
+15. Metadata, (29113580, 2018, "Prominin-2 Prevents the Formation of Caveolae in Normal and Ovarian Hyperstimulated Pregnancy", "1 Cell and Reproductive Biology Laboratory, School of Medical Sciences (Discipline of Anatomy and Histology) and The Bosch Institute, The University of Sydney, Sydney, New South Wales, Australia.")
+Text, A recent in vitro study indicated that prominin-2 prevents the formation of caveolae by sequestering membrane cholesterol.
+DataType, test
+Tags, [("prominin-2", "prevents", "the formation")]
+16. Metadata, (29021211, 2018, "PFMG1 Promotes Osteoblast Differentiation and Prevents Osteoporotic Bone Loss", "Protein Science Key Laboratory, Ministry of Education, School of Pharmaceutical Sciences, Tsinghua University, Beijing, China.")
+Text, Moreover, PFMG1 prevents bone loss caused by ovariectomy.
+DataType, train
+Tags, [("PFMG1", "prevents", "bone loss")]
+17. Metadata, (31482783, 2019, "A Cost-Effective Novel Innovative Box (C-Box) to Prevent Cockroach Infestation of Continuous Positive Airway Pressure Equipment: A Unique Problem in Northern Tropical Australia", "Darwin Respiratory and Sleep Health, Darwin Private Hospital, Darwin, Australia.")
+Text, Over experience, using this C-Box has demonstrated that it can prevent pest infestation and reduce the cost of replacing pest-infested CPAP machines.
+DataType, train
+Tags, [("it", "prevent", "pest infestation")]
+18. Metadata, (10973068, 2000, "The Pachytene Checkpoint", "Howard Hughes Medical Institute, Yale University, PO Box 208103, New Haven, CT 06520-8103, USA. shirleen.roeder@yale.edu")
+Text, The pachytene checkpoint prevents meiotic nuclear division in cells that fail to complete meiotic recombination and chromosome synapsis.
+DataType, test
+Tags, [("The pachytene checkpoint", "prevents", "meiotic nuclear division")]
+19. Metadata, (15172660, 2004, "How Do Atrial Pacing Algorithms Prevent Atrial Arrhythmias?", "Department of Cardiology, Eastbourne General Hospital, Eastbourne, UK. mitcharj@doctors.org.uk")
+Text, Pacemaker implantation may prevent atrial tachyarrhythmias by preventing bradycardia and pauses.
+DataType, train
+Tags, [("Pacemaker implantation", "prevent", "atrial tachyarrhythmias")]
+20. Metadata, (19576492, 2009, "[Controversy: Botulinum Toxin, Does It Prevent Cutaneous Aging?]", "anny.cohen-letessier@wanadoo.fr")
+Text, Aging cannot be reduced to the facial lines; botulinum toxin cannot prevent the other parameters of age such as drying, pigmentation problems, vascular problems, and loss of volume.
+DataType, train
+Tags, [("botulinum toxin", "prevent", "the other parameters")]

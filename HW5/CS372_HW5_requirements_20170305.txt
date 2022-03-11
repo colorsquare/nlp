@@ -1,0 +1,8 @@
+# python
+Python 3.7.6
+
+# wikipedia
+pip install wikipedia-api
+
+# pprint
+pip install pprint
